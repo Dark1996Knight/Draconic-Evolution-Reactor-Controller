@@ -1,6 +1,6 @@
 local version = "1.0"
 -- modifiable variables
-local reactorSide = "left"
+local reactorSide = "right"
 local outputfluxgateSide = "top"
 
 local targetStrength = 50
